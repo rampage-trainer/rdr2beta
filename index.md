@@ -4,25 +4,25 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-## Header 2
+## Release Information
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### Header 4
+#### Changelog
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Install Instructions
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Supported Gamebuilds
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
