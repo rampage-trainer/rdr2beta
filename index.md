@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 ## Release Information
 
 > This is a blockquote following a header.
