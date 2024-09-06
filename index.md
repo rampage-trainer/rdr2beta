@@ -16,13 +16,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Install Instructions
+#### Install Instructions
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Supported Gamebuilds
+#### Supported Gamebuilds
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
