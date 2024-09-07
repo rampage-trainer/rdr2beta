@@ -4,28 +4,31 @@ layout: default
 
 ## Release Information
 
-> This is a blockquote following a header.
+> These versions are Beta builds
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Beta builds may have issues and are not as stable as mainline builds
 
 #### Changelog
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Added Door Manager
+*   Added Horse Side Saddle Riding
+*   Added Submenu for Facial Expressions
+*   New Overhauled Wardrobe with support for SP,MP and Female Clothing
+*   Added More Speech Options (Regular, Flow Greets, Vignettes)
+*   Re-Implemented the old way of using aimation flags
+*   Ped Scenarios are now saved in Map Saver
+*   Ped Outfits and MetaTags are now fully saved
 
 #### Install Instructions
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Download the ZIP File
+2.  Extract the ZIP File
+3.  Copy RampageFiles and Rampage.asi into your Game Directory
+
+> It's important to always merge the new RampageFiles with your current one when using beta versions.
 
 #### Supported Gamebuilds
 
 | Game         | Build             | Status|
 |:-------------|:------------------|:------|
-| RDR2         |                   |       |
-
-### There's a horizontal rule below this.
-
-* * *
+| RDR2         | 1.0.1491.50       | Runs  |
