@@ -31,4 +31,4 @@ layout: default
 
 | Game         | Build             | Status|
 |:-------------|:------------------|:------|
-| RDR2         | 1.0.1491.50       | Runs  |
+| RDR2         | 1.0.1491.50       | ![Runs](https://img.shields.io/badge/Runs-brightgreen)  |
